@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/lemons/arc170/fuselage_gold"
+	"$halflambert" "1"
+}
